@@ -22,11 +22,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="Commands\" />
-		<Folder Include="DTOs\" />
-		<Folder Include="Handlers\" />
 		<Folder Include="Infrastructure\Repositories\Interfaces\" />
-		<Folder Include="Queries\" />
 	</ItemGroup>
 
 </Project>
