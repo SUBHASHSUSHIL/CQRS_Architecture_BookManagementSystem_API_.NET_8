@@ -1,4 +1,4 @@
-﻿using CQRS_Architecture_BookManagementSystem_API_.NET_8.Domain.Entities;
+﻿using CQRS_Architecture_BookManagementSystem_API_.NET_8.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
